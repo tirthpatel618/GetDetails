@@ -39,7 +39,8 @@ document.getElementById("schoolnameBtn").addEventListener("click", function() {
 
 function copyToClipboard(text) {
     navigator.clipboard.writeText(text).then(function() {
-        alert("Copied to clipboard: " + text);
+        alert("Copied to clipboard:  " + text);
+        console.log("Text copied to clipboard: ", text);
     }).catch(function(error) {
         console.error("Error copying text: ", error);
     });
