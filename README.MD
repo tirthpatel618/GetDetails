@@ -3,7 +3,7 @@ Ever get tired of typing the same things over and over again?
 using this safari extension, simply keep everything loaded on the browser, and on a click of a button, 
 you can copy whatever you want to!
 
-<img width="436" alt="image" src="https://github.com/tirthpatel618/GetDetails/blob/main/GetDetails%20Extension/Resources/images/getdetails.png">
+<img alt="image" src="https://github.com/tirthpatel618/GetDetails/blob/main/GetDetails%20Extension/Resources/images/getdetails.png">
 
 
 How to use:
