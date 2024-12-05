@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "GetDetails Extension",
+    "description": "Copying your details for easy access",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "clipboard.png"
+    },
+    "permissions": [
+        "clipboardWrite"
+      ]
+  }
