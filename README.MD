@@ -1,6 +1,6 @@
 Ever get tired of typing the same things over and over again? 
 
-using this safari extension, simply keep everything loaded on the browser, and on a click of a button, 
+using this extension, simply keep everything loaded on the browser, and on a click of a button, 
 you can copy whatever you want to!
 
 How to use (safari):
@@ -20,3 +20,4 @@ Modify the config.template.js with your details and change it's name to config.j
 
 Load the unpacked extension to chrome extensions and enjoy!
 
+PS. Make sure you keep it private 
